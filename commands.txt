@@ -1,0 +1,3 @@
+git init for initialize git in present working directory
+
+git add -A adding all untracked files to staging area
