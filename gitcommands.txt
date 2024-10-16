@@ -1,0 +1,3 @@
+git congig --list
+git congig --global user.name "username"
+git congig --global user.email "email"
